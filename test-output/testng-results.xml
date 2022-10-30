@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-30T11:40:26 IST" name="Suite" finished-at="2022-10-30T11:41:20 IST" duration-ms="53554">
+    <groups>
+    </groups>
+    <test started-at="2022-10-30T11:40:26 IST" name="Test" finished-at="2022-10-30T11:41:20 IST" duration-ms="53554">
+      <class name="com.patient.qa.Testcases.patientUITest">
+        <test-method is-config="true" signature="launchPatientOveriewPage()[pri:0, instance:com.patient.qa.Testcases.patientUITest@428640fa]" started-at="2022-10-30T11:40:26 IST" name="launchPatientOveriewPage" finished-at="2022-10-30T11:40:35 IST" duration-ms="8744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPatientOveriewPage -->
+        <test-method signature="verifyLanguageTest()[pri:0, instance:com.patient.qa.Testcases.patientUITest@428640fa]" started-at="2022-10-30T11:40:35 IST" name="verifyLanguageTest" finished-at="2022-10-30T11:41:19 IST" duration-ms="44358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageTest -->
+        <test-method is-config="true" signature="closeSessions()[pri:0, instance:com.patient.qa.Testcases.patientUITest@428640fa]" started-at="2022-10-30T11:41:19 IST" name="closeSessions" finished-at="2022-10-30T11:41:20 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSessions -->
+      </class> <!-- com.patient.qa.Testcases.patientUITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
